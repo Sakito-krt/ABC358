@@ -21,6 +21,11 @@ class Program
                 ans[i] = ans[i-1] + input[1];
             }
         }
+
+        foreach (int a in ans)
+        {
+            Console.WriteLine(a);
+        }
         
         
     }
