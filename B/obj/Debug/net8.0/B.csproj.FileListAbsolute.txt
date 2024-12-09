@@ -1,0 +1,15 @@
+/Users/akira/ABC358/B/bin/Debug/net8.0/B
+/Users/akira/ABC358/B/bin/Debug/net8.0/B.deps.json
+/Users/akira/ABC358/B/bin/Debug/net8.0/B.runtimeconfig.json
+/Users/akira/ABC358/B/bin/Debug/net8.0/B.dll
+/Users/akira/ABC358/B/bin/Debug/net8.0/B.pdb
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.AssemblyInfoInputs.cache
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.AssemblyInfo.cs
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.csproj.CoreCompileInputs.cache
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.sourcelink.json
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.dll
+/Users/akira/ABC358/B/obj/Debug/net8.0/refint/B.dll
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.pdb
+/Users/akira/ABC358/B/obj/Debug/net8.0/B.genruntimeconfig.cache
+/Users/akira/ABC358/B/obj/Debug/net8.0/ref/B.dll
